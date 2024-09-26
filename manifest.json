@@ -1,0 +1,10 @@
+{
+    "id": "dynamic-date-plugin",
+    "name": "DynamicDate Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "A plugin that provides a date picker with dynamic information like 'Tomorrow' and weekdays for the current week.",
+    "author": "Josh Morris",
+    "authorUrl": "https://github.com/acrylicus",
+    "isDesktopOnly": false
+  }
